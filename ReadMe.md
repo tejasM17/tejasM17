@@ -1,5 +1,8 @@
 # 💫 About Me:
-👨‍💻🐍 PYTHON DEVELOPER<br>🤝      Join, Collab, SUCCEED.<br>🌱       learning - PYTHON | WEB-DEV | FLUTTER-DART | SYBER-SEC <br>            | INVESTMENT  etc....<br><br>
+👨‍💻🐍 PYTHON DEVELOPER
+⚔️   OPEN TO LEARN 
+📈   GOAL ORIENTATED 
+<br>🤝      Join, Collab, SUCCEED.<br>🌱       learning - PYTHON | WEB-DEV | FLUTTER-DART | SYBER-SEC <br>            | INVESTMENT  etc....<br><br>
 
 
 ## 🌐 Socials:
