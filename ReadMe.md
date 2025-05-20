@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨‍💻🐍 PYTHON DEVELOPER
-⚔️   OPEN TO LEARN 
+👨‍💻🐍 PYTHON DEVELOPER<br>
+⚔️   OPEN TO LEARN <br>
 📈   GOAL ORIENTATED 
 <br>🤝      Join, Collab, SUCCEED.<br>🌱       learning - PYTHON | WEB-DEV | FLUTTER-DART | SYBER-SEC <br>            | INVESTMENT  etc....<br><br>
 
