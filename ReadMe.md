@@ -2,7 +2,7 @@
 👨‍💻🐍 PYTHON DEVELOPER<br>⚔️ OPEN TO LEARN<br>📈 GOAL ORIENTATED<br>🤝 Join, Collab, SUCCEED.<br>🌱 learning - PYTHON | DSA | INVESTMENT etc....
 
 
-## 🌐 :
+## 🌐  :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__tejas__m__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejas-m-9b7385331/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://github.com/Tejastejas9380) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejasm9380@gmail.com) 
 
 # 👨‍💻 :
