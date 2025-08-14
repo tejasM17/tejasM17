@@ -1,5 +1,5 @@
 ##                                                                 TEJAS  M
-👨‍💻🐍 PYTHON DEVELOPER<br>⚔️ OPEN TO LEARN<br>📈 GOAL ORIENTATED<br>🤝 Join, Collab, SUCCEED.<br>🌱 learning - PYTHON | DSA | INVESTMENT etc....
+👨‍💻🐍 PYTHON <br>🌱 learning - PYTHON | DSA | INVESTMENT etc....
 
 
 ## 🌐  :
