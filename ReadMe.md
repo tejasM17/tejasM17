@@ -1,5 +1,5 @@
 # Tejas M:
-👨‍💻🐍 PYTHON<br><br>🌱 learning - PYTHON | DSA | INVESTMENT etc....
+👨‍💻🐍 PYTHON<br><br>🌱 learning - PYTHON | DSA | INVESTMENT 
 
 
 ## 🌐 Socials:
