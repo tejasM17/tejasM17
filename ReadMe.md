@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 I’m currently Preparing for  [GSoC 2026](https://summerofcode.withgoogle.com/)
+- 👨‍💻[GSoC 2026](https://summerofcode.withgoogle.com/) asperint 
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1Z5kgTzHNnj0h5ODA2hakUjA4uRG38T9C/view)
 
