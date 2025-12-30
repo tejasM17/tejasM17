@@ -9,7 +9,7 @@
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1Z5kgTzHNnj0h5ODA2hakUjA4uRG38T9C/view)
 
-- 💻 All of my projects are available on [GitHub](https://github.com/tejasM17?tab=repositories)
+- 💻 [Open Source](https://github.com/tejasM17?tab=repositories)Contributor
 
 - 💬 Ask me about **Apps, Backend and Artificial Intelligence**
 
