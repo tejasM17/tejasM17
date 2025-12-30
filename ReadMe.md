@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasM17&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 [GSoC 2026](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developers.google.com/open-source/gsoc/timeline&ved=2ahUKEwiNp6e-ouSRAxV3SWwGHXpYDegQFnoECC4QAQ&sqi=2&usg=AOvVaw3WMdXJBnE4C72oNOmmnlmQ) asperint 
 
