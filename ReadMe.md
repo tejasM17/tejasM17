@@ -14,12 +14,3 @@
 - 💬 Ask me about **Apps, Backend and Artificial Intelligence**
 
 - 📫 Reach out to me at **tejasm9380@gmail.com**
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasM17&show_icons=true&locale=en" alt="tejasM17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasM17&" alt="tejasM17" /></p>
-
-<h3 align="left">Languages and Tools:</h3>
-
