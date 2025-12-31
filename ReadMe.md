@@ -3,8 +3,6 @@
 
 <h4 align="center">Open Source Contributor | GSoC 2026 Aspirant | Full-Stack Developer</h4>
 
-<img src="[https://komarev.com/ghpvc/?username=tejasM17&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/v2/D4D03AQEmx8VkadUTOA/profile-displayphoto-scale_100_100/B4DZpKOHNzJAAg-/0/1762181807475?e=1769040000&v=beta&t=qHEd6uySU3Og9Z_ySX8zhf6mdVqiQQNA4DLPFw12Tqo)" alt="Tejas" />
-
 - 👨‍💻 [GSoC 2026](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developers.google.com/open-source/gsoc/timeline&ved=2ahUKEwiNp6e-ouSRAxV3SWwGHXpYDegQFnoECC4QAQ&sqi=2&usg=AOvVaw3WMdXJBnE4C72oNOmmnlmQ) asperint 
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1Z5kgTzHNnj0h5ODA2hakUjA4uRG38T9C/view)
