@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas M</h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
-<h4 align="center">Open Source Contributor | GSoC 2026 Aspirant | Full-Stack Developer</h4>
+<h4 align="center">“I like products used by real people, not just libraries.”</h4>
 
 - 👨‍💻 [GSoC 2026](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developers.google.com/open-source/gsoc/timeline&ved=2ahUKEwiNp6e-ouSRAxV3SWwGHXpYDegQFnoECC4QAQ&sqi=2&usg=AOvVaw3WMdXJBnE4C72oNOmmnlmQ) asperint 
 
