@@ -18,4 +18,4 @@
 `Kotlin` `JavaScript` `Python` `React` `tailwind css` `Flutter` `Dart` `Firebase` `Node.js` `MangoDb` 
 
 **Tools**  
-`Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render`
+`Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render` `radis`
