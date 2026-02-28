@@ -15,7 +15,7 @@
 
 ###  Tech Stack :
 **Languages & Frameworks**  
-`Kotlin` `JavaScript` `Python` `React` `tailwind css` `Flutter` `Dart` `Firebase` `Node.js` `MangoDb` 
+`Kotlin` `SpringBoot` `JavaScript` `Python` `React` `tailwind css` `Firebase` `Node.js` `MangoDb`
 
 **Tools**  
-`Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render` `radis`
+`Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render` `radis` `IntelliJ` `Postman`
