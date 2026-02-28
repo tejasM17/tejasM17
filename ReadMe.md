@@ -14,8 +14,11 @@
 - 📫 Reach out to me at **tejasm9380@gmail.com**
 
 ###  Tech Stack :
+
 **Languages & Frameworks**  
+
 `Kotlin` `SpringBoot` `JavaScript` `Python` `React` `tailwind css` `Firebase` `Node.js` `MangoDb`
 
 **Tools**  
+
 `Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render` `radis` `IntelliJ` `Postman`
