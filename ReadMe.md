@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **App, Backend and Artificial Intelligence**
 
-- 📫 Reach out to me at **tejasm9380@gmail.com**
+- 📫 Reach out me at **tejasm9380@gmail.com**
 
 ###  Tech Stack :
 
