@@ -6,7 +6,7 @@
 
 <h4 align="center">“I like products used by real people, not just libraries.”</h4>
 
-- 👨‍💻 [GSoC 2026](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developers.google.com/open-source/gsoc/timeline&ved=2ahUKEwiNp6e-ouSRAxV3SWwGHXpYDegQFnoECC4QAQ&sqi=2&usg=AOvVaw3WMdXJBnE4C72oNOmmnlmQ) asperint 
+- 👨‍💻 [GSoC](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developers.google.com/open-source/gsoc/timeline&ved=2ahUKEwiNp6e-ouSRAxV3SWwGHXpYDegQFnoECC4QAQ&sqi=2&usg=AOvVaw3WMdXJBnE4C72oNOmmnlmQ) asperint 
 
 - 💻 [Open Source]([https://github.com/tejasM17?tab=repositories](https://www.bing.com/search?pglt=417&q=open+source&cvid=60ad2738b8fa48c8b65e9c64955603f6&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0NDc3ajBqMagCALACAA&FORM=ANNTA1&adppc=EdgeStart&PC=ASTS)) Contributor
 
