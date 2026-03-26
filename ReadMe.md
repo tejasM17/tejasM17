@@ -10,7 +10,7 @@
 
 - 💻 [Open Source]([https://github.com/tejasM17?tab=repositories](https://www.bing.com/search?pglt=417&q=open+source&cvid=60ad2738b8fa48c8b65e9c64955603f6&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0NDc3ajBqMagCALACAA&FORM=ANNTA1&adppc=EdgeStart&PC=ASTS)) Contributor
 
-- 💬 Ask me about **App, Backend and Artificial Intelligence**
+- 💬 Ask me about **App, Backend, cybersecurity and Artificial Intelligence**
 
 - 📫 Reach out me at **tejasm9380@gmail.com**
 
