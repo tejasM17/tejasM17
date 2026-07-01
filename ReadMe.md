@@ -22,3 +22,7 @@
 **Tools**  
 
 `Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render` `radis` `IntelliJ` `Postman`
+
+**AI**
+
+`claude cli` `ollama`
