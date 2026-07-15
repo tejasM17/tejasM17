@@ -16,12 +16,12 @@
 **Languages & Frameworks**  
 
 `Kotlin` `SpringBoot` `JavaScript` `Python` `React` `tailwind css` `Firebase` `Node.js` `MangoDb`
-`jetpack compose`
+`jetpack compose` `typescript` `nextjs`
 
 **Tools**  
 
-`Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render` `radis` `IntelliJ` `Postman`
+`Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render` `radis` `IntelliJ` `Postman` `liveblocks` `trigger.dev`
 
 **AI**
 
-`claude cli` `ollama`
+`claude cli` `ollama` `langraph`
