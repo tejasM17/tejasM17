@@ -20,7 +20,7 @@
 
 **Tools**  
 
-`Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render` `radis` `IntelliJ` `Postman` `liveblocks` `trigger.dev`
+`Git` `GitHub` `Android Studio` `VS Code` `Docker` `Vercel` `render` `radis` `IntelliJ` `Postman` `liveblocks` `trigger.dev` `clerk`
 
 **AI**
 
