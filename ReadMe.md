@@ -17,8 +17,7 @@
 
 **Languages & Frameworks**  
 
-`Kotlin` `SpringBoot` `JavaScript` `Python` `React` `tailwind css` `Firebase` `Node.js` `MangoDb`
-`jetpack compose` `typescript` `nextjs`
+`Kotlin` `SpringBoot` `jetpack compose` `Firebase` `JavaScript` `Python` `React` `tailwind css`  `Node.js` `MangoDb` `typescript` `nextjs`
 
 **Tools**  
 
