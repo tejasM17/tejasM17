@@ -27,4 +27,4 @@
 
 **AI**
 
-`claude cli` `ollama` `langraph`
+`claude Code` `gemini cli` `grok build` `ollama` `langraph`
