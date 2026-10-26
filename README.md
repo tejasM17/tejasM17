@@ -13,7 +13,7 @@
 
 - 🌿 Learnign [Kotlin](https://kotlinlang.org/docs/)
 
-- 📄 [Resume](https://drive.google.com/file/d/1h3CB4vvPuc8LghBNsXj5U06Amb7fdysz/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/11GD54X1agMThXh9K1kkCKjWpw0Vha0vW/view?usp=drivesdk)
 
 ###  Tech Stack :
 
